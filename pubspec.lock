@@ -316,7 +316,14 @@ packages:
       name: sticky_header_list
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.2"
+    version: "1.0.3"
+  sticky_headers:
+    dependency: "direct main"
+    description:
+      name: sticky_headers
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.7"
   stream_channel:
     dependency: transitive
     description:

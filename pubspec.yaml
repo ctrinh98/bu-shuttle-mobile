@@ -9,9 +9,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   flutter_platform_widgets: "^0.2.0"
-  sticky_header_list: "^1.0.2"
+  sticky_header_list: "^1.0.3"
   http: "^0.11.3+16"
   simple_moment: "^0.1.1"
+  sticky_headers: "^0.1.7"
 
 dev_dependencies:
   flutter_test:
