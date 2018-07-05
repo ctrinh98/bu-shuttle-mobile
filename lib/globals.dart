@@ -1,6 +1,19 @@
 library bu_shuttle.globals;
 
+class Stops {
+  final String stopId;
+  final String translocStopId;
+  final String stopName;
+  final String stopDesc;
+  final String stopLat;
+  final String stopLon;
+  final String directionId;
+  final List<dynamic> times;
+  Stops(this.stopId, this.translocStopId, this.stopName, this.stopDesc, this.stopLat, this.stopLon, this.directionId, this.times);
+}
+
 bool serviceActive;
+var stopsList = new List<Stops>();
 
 var estimateMatchesM1 = new List<String>();
 var estimateMatchesM2 = new List<String>();

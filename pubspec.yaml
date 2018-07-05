@@ -13,6 +13,7 @@ dependencies:
   http: "^0.11.3+16"
   simple_moment: "^0.1.1"
   sticky_headers: "^0.1.7"
+  photo_view: "^0.0.2"
 
 dev_dependencies:
   flutter_test:
@@ -36,8 +37,34 @@ flutter:
   #  - images/a_dot_ham.jpeg
   assets:
    - assets/home/signature.png
+   - assets/m1/avatar.png
+   - assets/m1/backdrop.png
+   - assets/m2/avatar.png
+   - assets/m2/backdrop.png
+   - assets/m3/avatar.png
+   - assets/m3/backdrop.png
+   - assets/m4/avatar.png
+   - assets/m4/backdrop.png
+   - assets/m5/avatar.png
+   - assets/m5/backdrop.png
+   - assets/m6/avatar.png
+   - assets/m6/backdrop.png
+   - assets/m7/avatar.png
+   - assets/m7/backdrop.png
+   - assets/c1/avatar.png
+   - assets/c1/backdrop.png
+   - assets/c2/avatar.png
+   - assets/c2/backdrop.png
+#   - assets/c3/avatar.png
+#   - assets/c3/backdrop.png
+#   - assets/c4/avatar.png
+#   - assets/c4/backdrop.png
+#   - assets/c5/avatar.png
+#   - assets/c5/backdrop.png
    - assets/c6/avatar.png
    - assets/c6/backdrop.png
+   - assets/c7/avatar.png
+   - assets/c7/backdrop.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
