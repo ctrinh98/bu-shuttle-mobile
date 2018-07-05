@@ -16,6 +16,21 @@ I conceived the idea during February of 2017 and have been working on it since M
 - [x] Create app icon
 - [ ] Create splash screen
 
+## Building
+You can follow these instructions to build the app and install it onto your device.
+
+### Prerequisites
+If you are new to Flutter, please first follow the [Flutter Setup](https://flutter.io/setup/) guide.
+
+### Building and installing the Flutter app
+- `cd bu-shuttle-mobile`
+- `flutter upgrade`
+- `flutter run --release`
+
+The `flutter run --release` command both builds and installs the Flutter app on your physical device. 
+
+(If you're using a simulator, open it up first and then use the `flutter run` command instead.)
+
 ## Progress
 Unfortuntely, BU IS&T has requested that this app not be published due to the fact that it is not officially maintained by the university. No more progress will be made from this point on.
 
