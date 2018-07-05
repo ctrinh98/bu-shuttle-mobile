@@ -13,6 +13,8 @@ I conceived the idea during February of 2017 and have been working on it since M
 - [ ] Descriptions for every stop detail page
 - [x] Bus schedule implemented for every stop
 - [x] Fluid animations for stop details page
+- [x] Create app icon
+- [ ] Create splash screen
 
 ## Progress
 Unfortuntely, BU IS&T has requested that this app not be published due to the fact that it is not officially maintained by the university. No more progress will be made from this point on.
